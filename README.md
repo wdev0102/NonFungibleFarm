@@ -1,2 +1,2 @@
 # NonFungibleFarm
-aproovelathey with solidity
+aproovelathey with solidity for staking
